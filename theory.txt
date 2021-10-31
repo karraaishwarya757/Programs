@@ -1,4 +1,4 @@
-1. What are he commonly used HTTP methods ?
+1. What are the commonly used HTTP methods ?
 A:  - GET
     - PUT
     - POST
