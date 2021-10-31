@@ -12,4 +12,16 @@ A:  It is a type of testing which checks whether the whole component works prope
 A:  GET  - This method is used to get the additional information from the server.
     POST - By using this method we can make changes such as updating, inserting on the server.
     
-4. 
+4. What are the tools used for API Testing ?
+A:  - Postman
+    - Jmeter
+    - SoapUI
+    - Testim
+
+5. What are different levels of software testing ?
+A:  (i)   Unit testing         - It is a testing process where each individual component of the system is tested.
+    (ii)  Integration Testing  - A testing process where all the individual units are combined and tested as a group.
+    (iii) System Testing       - It is a testing process where the complete system is tested.
+    (iv)  Acceptance Testing   - This testing involves whether the designer system is meeting the customer requirements and whether it is acceptable for delivery.
+
+6. 
