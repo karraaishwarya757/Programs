@@ -1,1 +1,15 @@
+1. What are he commonly used HTTP methods ?
+A:  - GET
+    - PUT
+    - POST
+    - PATCH
+    - DELETE
 
+2. What is Regression testing ? Tools used in Regression testing ?
+A:  It is a type of testing which checks whether the whole component works properly even after adding new componenets to the complete program. The commonly used tools in regressiong testing are Selenium, watir.
+
+3. What is difference between GET and POST method ?
+A:  GET  - This method is used to get the additional information from the server.
+    POST - By using this method we can make changes such as updating, inserting on the server.
+    
+4. 
