@@ -24,4 +24,9 @@ A:  (i)   Unit testing         - It is a testing process where each individual c
     (iii) System Testing       - It is a testing process where the complete system is tested.
     (iv)  Acceptance Testing   - This testing involves whether the designer system is meeting the customer requirements and whether it is acceptable for delivery.
 
-6. 
+6. What is docker pull, docker kill and docker run ?
+A: docker pull - In order to pull an image from the docker repository.
+   docker kill - Kills the container by stopping its execution immediately.
+   docker run  - In order in create a container from an image.
+
+
